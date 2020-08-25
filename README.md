@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **I got my first Youtube Channel at 13y**
 
+---
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [3 anos de React/Redux, agora entendo Sagas](https://medium.com/@patrickspteixeira/3-anos-de-react-redux-agora-entendo-sagas-98f648a4afa?source=rss-95241b253287------2)
@@ -22,6 +24,9 @@
 - [Stop yelling, start doing](https://medium.com/agrotis-developers/stop-yelling-start-making-c4b5f0fbe6a7?source=rss-95241b253287------2)
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+### Knowledge
 <p align="left">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
@@ -38,9 +43,13 @@
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
 </p>
 
+---
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santospatrick&layout=compact&hide=html" alt="santospatrick" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santospatrick&show_icons=true" alt="santospatrick" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=santospatrick&show_icons=true" alt="santospatrick" /></p>
+
+---
 
 <p align="center">
 <a href="https://codepen.io/piricuca" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="piricuca" height="30" width="30" /></a>
