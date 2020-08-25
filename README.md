@@ -17,6 +17,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [3 anos de React/Redux, agora entendo Sagas](https://medium.com/@patrickspteixeira/3-anos-de-react-redux-agora-entendo-sagas-98f648a4afa?source=rss-95241b253287------2)
+- [Improving your Javascript code reusability with functional programming paradigms](https://medium.com/agrotis-developers/improving-your-javascript-code-reusability-with-functional-programming-paradigms-3a17b8a1ae4a?source=rss-95241b253287------2)
+- [Stop yelling, start doing](https://medium.com/agrotis-developers/stop-yelling-start-making-c4b5f0fbe6a7?source=rss-95241b253287------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
