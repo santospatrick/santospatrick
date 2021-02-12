@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patrick</h1>
-<h3 align="center">A passionate javascript developer with over 6 years of experience from Brazil!</h3>
+<h3 align="center">A passionate javascript developer with over 7 years of experience from Brazil!</h3>
 
 - 🔭 I’m currently working on [@inovando templates & components for Create React App, React Native CLI, React.js, React Native and Adonis.js](https://github.com/inovando)
 
