@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [@inovando templates & components for Create React App, React Native CLI, React.js, React Native and Adonis.js](https://github.com/inovando)
 
-- 🌱 I’m currently learning **React.js, React Native & Node.js**
+- 🌱 I’m currently learning **Next.js, React Native & GraphQL**
 
 - 👨‍💻 All of my projects are available at [santospatrick.github.io](https://santospatrick.com/#/work)
 
