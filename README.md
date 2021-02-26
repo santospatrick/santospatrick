@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Patrick</h1>
 <h3 align="center">A passionate javascript developer with over 7 years of experience from Brazil!</h3>
 
-- 🔭 I’m currently working on [@popstand private projects, templates & components for Create React App, React Native CLI, React.js and React Native](https://github.com/popstand)
+- 🔭 I’m currently working on [@popstand private projects, templates & components for React & React Native](https://github.com/popstand)
 
 - 🌱 I’m currently learning **Next.js, React Native & GraphQL**
 
