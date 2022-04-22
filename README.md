@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [@popstand private projects, templates & components for React & React Native](https://github.com/popstand)
 
-- 🌱 I’m currently learning **Next.js, React Native & GraphQL**
+- 🌱 I’m currently learning **Next.js & Blockchain development**
 
 - 👨‍💻 All of my projects are available at [santospatrick.github.io](https://santospatrick.com/#/work)
 
