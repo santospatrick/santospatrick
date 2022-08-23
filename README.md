@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [santospatrick.github.io](https://santospatrick.com/#/work)
 
-- 📝 I regulary write articles on [https://medium.com/@patrickspteixeira](https://medium.com/@patrickspteixeira)
+- 📝 I regulary write articles on [https://medium.com/@santospatrick](https://medium.com/@santospatrick)
 
 - 💬 Ask me about **Javascript**
 
