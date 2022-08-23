@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patrick</h1>
-<h3 align="center">A passionate javascript developer with over 8 years of experience from Brazil!</h3>
+<h3 align="center">Tech Lead passionate by any type of technology to solve problems!</h3>
 
 - 🔭 I’m currently working on [@popstand private projects, templates & components for React & React Native](https://github.com/popstand)
 
@@ -35,7 +35,7 @@
     <img src="https://egghead.io/_next/image?url=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Ftags%2Fimages%2F000%2F000%2F969%2Fthumb%2Freactnativelogo.png&w=96&q=75" alt="react-native" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="40" height="40" /> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
