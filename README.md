@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Javascript**
 
-- 📫 How to reach me **patrickspteixeira@gmail.com**
+- 📫 How to reach me **info@santospatrick.com**
 
 - ⚡ Fun fact **I got my first Youtube Channel at 13y**
 
