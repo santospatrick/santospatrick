@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Patrick</h1>
 <h3 align="center">Teach Lead Frontend</h3>
 
-👨‍💻 Tech Lead passionate by any type of technology to solve problems, currently working with `React.js`, `Next.js` and `React Native`. 📝 [Lifelong learner](https://www.linkedin.com/in/santospatrickdev/), developing not always for a big purpose (sometimes just for fun). ❤️ I love to deliver/publish products and talk about decision making, code challenges and improving as a human being. 💬 Ask me about Javascript! I [wrote some technical articles](https://medium.com/@santospatrick) a while ago, but they are timeless (they are worth your time) 
+<p align="center">
+<a href="https://instagram.com/whoistrick" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:info@santospatrick.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/santospatrickdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://opensea.io/santospatrick" target="_blank"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" target="_blank"></a>
+</p>
+
+👨‍💻 Tech Lead passionate by any type of technology to solve problems, currently working with `React.js`, `Next.js` and `React Native`. 📝 [Lifelong learner](https://www.linkedin.com/in/santospatrickdev/), developing not always for a big purpose (sometimes just for fun). ❤️ I love to deliver/publish products and talk about decision making, code challenges and improving as a human being. 💬 Ask me about Javascript! [I wrote some technical articles](https://medium.com/@santospatrick) a while ago, but they are timeless (they are worth your time) 
 
 ---
 
@@ -24,18 +31,7 @@
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santospatrick&layout=compact&hide=html" alt="santospatrick" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=santospatrick&show_icons=true" alt="santospatrick" /></p>
-
----
-
 <p align="center">
-<a href="https://codepen.io/piricuca" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="piricuca" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/patrick-santos-b08143106" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="patrick-santos-b08143106" height="30" width="30" /></a>
-<a href="https://codesandbox.com/santospatrick" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="santospatrick" height="30" width="30" /></a>
-<a href="https://fb.com/patrick.santos.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="patrick.santos.dev" height="30" width="30" /></a>
-<a href="https://instagram.com/whoistrick" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="whoistrick" height="30" width="30" /></a>
-<a href="https://www.behance.net/santospatrick" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="santospatrick" height="30" width="30" /></a>
-<a href="https://medium.com/@patrickspteixeira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@patrickspteixeira" height="30" width="30" /></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santospatrick&layout=compact&hide=html" alt="santospatrick" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santospatrick&show_icons=true" alt="santospatrick" />
 </p>
