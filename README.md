@@ -1,28 +1,7 @@
 <h1 align="center">Hi 👋, I'm Patrick</h1>
-<h3 align="center">Tech Lead passionate by any type of technology to solve problems!</h3>
+<h3 align="center">Teach Lead Frontend</h3>
 
-- 🔭 I’m currently working on [@popstand private projects, templates & components for React & React Native](https://github.com/popstand)
-
-- 🌱 I’m currently learning **Next.js & Blockchain development**
-
-- 👨‍💻 All of my projects are available at [santospatrick.github.io](https://santospatrick.com/#/work)
-
-- 📝 I regulary write articles on [https://medium.com/@santospatrick](https://medium.com/@santospatrick)
-
-- 💬 Ask me about **Javascript**
-
-- 📫 How to reach me **info@santospatrick.com**
-
-- ⚡ Fun fact **I got my first Youtube Channel at 13y**
-
----
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [3 anos de React/Redux, agora entendo Sagas](https://medium.com/@patrickspteixeira/3-anos-de-react-redux-agora-entendo-sagas-98f648a4afa?source=rss-95241b253287------2)
-- [Improving your Javascript code reusability with functional programming paradigms](https://medium.com/agrotis-developers/improving-your-javascript-code-reusability-with-functional-programming-paradigms-3a17b8a1ae4a?source=rss-95241b253287------2)
-- [Stop yelling, start doing](https://medium.com/agrotis-developers/stop-yelling-start-making-c4b5f0fbe6a7?source=rss-95241b253287------2)
-<!-- BLOG-POST-LIST:END -->
+👨‍💻 Tech Lead passionate by any type of technology to solve problems, currently working with `React.js`, `Next.js` and `React Native`. 📝 [Lifelong learner](https://www.linkedin.com/in/santospatrickdev/), developing not always for a big purpose (sometimes just for fun). ❤️ I love to deliver/publish products and talk about decision making, code challenges and improving as a human being. 💬 Ask me about Javascript! I [wrote some technical articles](https://medium.com/@santospatrick) a while ago, but they are timeless (they are worth your time) 
 
 ---
 
