@@ -8,7 +8,7 @@
 <a href="https://opensea.io/santospatrick" target="_blank"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" target="_blank"></a>
 </p>
 
-👨‍💻 Tech Lead passionate by any type of technology to solve problems, currently working with `React.js`, `Next.js` and `React Native`. 📝 [Lifelong learner](https://www.linkedin.com/in/santospatrickdev/), developing not always for a big purpose (sometimes just for fun). ❤️ I love to deliver/publish products and talk about decision making, code challenges and improving as a human being. 💬 Ask me about Javascript! [I wrote some technical articles](https://medium.com/@santospatrick) a while ago, but they are timeless (they are worth your time) 
+👨‍💻 Tech Lead passionate by any type of technology to solve problems, currently working with `React.js`, `Next.js` and `React Native`. 📝 [Lifelong learner](https://www.linkedin.com/in/santospatrickdev/), developing not always for a big purpose (sometimes just for fun). ❤️ I love to deliver/publish products and talk about decision making, code challenges and improving as a human being. 💬 Ask me about Javascript! [I wrote some technical articles](https://medium.com/@santospatrick) a while ago, but they are timeless (and worth your time) 
 
 ---
 
