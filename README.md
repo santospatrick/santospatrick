@@ -8,7 +8,13 @@
 <a href="https://opensea.io/santospatrick" target="_blank"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" target="_blank"></a>
 </p>
 
-👨‍💻 Tech Lead passionate by any type of technology to solve problems, currently working with `React.js`, `Next.js` and `React Native`. 📝 [Lifelong learner](https://www.linkedin.com/in/santospatrickdev/), developing not always for a big purpose (sometimes just for fun). ❤️ I love to deliver/publish products and talk about decision making, code challenges and improving as a human being. 💬 Ask me about Javascript! [I wrote some technical articles](https://medium.com/@santospatrick) a while ago, but they are timeless (and worth your time) 
+<img align="right" width="350px" src="https://gateway.pinata.cloud/ipfs/QmcKdQ9DwokWG2tNZVASE2fUHT89BZWkTrB1JPAEd96Kck">
+
+</br>
+
+<p>
+👨‍💻 Tech Lead passionate by any type of technology to solve problems, currently working with `React.js`, `Next.js` and `React Native`. 📝 <a href="https://www.linkedin.com/in/santospatrickdev/" target="_blank">Lifelong learner</a>, developing not always for a big purpose (sometimes just for fun). ❤️ I love to deliver/publish products and talk about decision making, code challenges and improving as a human being. 💬 Ask me about Javascript! <a href="https://medium.com/@santospatrick" target="_blank">I wrote some technical articles</a> a while ago, but they are timeless (and worth your time) 
+</p>
 
 ---
 
@@ -30,6 +36,8 @@
 </p>
 
 ---
+
+</br>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santospatrick&layout=compact&hide=html" alt="santospatrick" />
