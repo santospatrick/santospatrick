@@ -13,7 +13,7 @@
 </br>
 
 <p>
-👨‍💻 Tech Lead passionate by any type of technology to solve problems, currently working with `React.js`, `Next.js` and `React Native`. 📝 <a href="https://www.linkedin.com/in/santospatrickdev/" target="_blank">Lifelong learner</a>, developing not always for a big purpose (sometimes just for fun). ❤️ I love to deliver/publish products and talk about decision making, code challenges and improving as a human being. 💬 Ask me about Javascript! <a href="https://medium.com/@santospatrick" target="_blank">I wrote some technical articles</a> a while ago, but they are timeless (and worth your time) 
+👨‍💻 Tech Lead passionate by any type of technology to solve problems, currently working with <code>React.js</code>, <code>Next.js</code> and <code>React Native</code>. 📝 <a href="https://www.linkedin.com/in/santospatrickdev/" target="_blank">Lifelong learner</a>, developing not always for a big purpose (sometimes just for fun). ❤️ I love to deliver/publish products and talk about decision making, code challenges and improving as a human being. 💬 Ask me about Javascript! <a href="https://medium.com/@santospatrick" target="_blank">I wrote some technical articles</a> a while ago, but they are timeless (and worth your time) 
 </p>
 
 ---
