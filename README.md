@@ -8,7 +8,7 @@
 <a href="https://opensea.io/santospatrick" target="_blank"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" target="_blank"></a>
 </p>
 
-<img align="right" width="300px" src="https://ipfs.io/ipfs/QmT7WGWiUc6iH4KZLPofzfZpRvVAXdkypkW2ZzC2q1CbBC?filename=harry.webp">
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/13510169/234090458-70117bf6-a43d-425f-9365-71a6cb093a05.png">
 
 </br>
 
