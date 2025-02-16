@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patrick</h1>
-<h3 align="center">Teach Lead Frontend</h3>
+<h3 align="center">Tech Lead</h3>
 
 <p align="center">
 <a href="https://instagram.com/thatrealtrick" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
